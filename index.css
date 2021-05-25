@@ -1,0 +1,22 @@
+body {
+    margin-top: 50px;
+  }
+  .navbar {
+      border-bottom: 2px solid rgb(126, 0, 0);
+  }
+  .navbar-brand img {
+      width: 100px;
+  }
+  .projectsCarousel p{
+      background-color: rgba(189, 185, 185, 0.829);
+  }
+  .projectsCarousel img {
+      max-width: 100%;
+  }
+  a {
+      color: rgb(126, 0, 0);
+  }
+  .btn {
+      background-color: rgb(126, 0, 0);
+      font-size: 1.5rem;
+  }
