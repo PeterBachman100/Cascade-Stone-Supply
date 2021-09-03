@@ -7,6 +7,9 @@ body {
   .navbar-brand img {
       width: 100px;
   }
+  .intro {
+    border-bottom: 2px solid rgb(126, 0, 0);
+  }
   .projectsCarousel p{
       background-color: rgba(189, 185, 185, 0.829);
   }

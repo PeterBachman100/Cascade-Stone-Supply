@@ -1,0 +1,44 @@
+body {
+    margin-top: 100px;
+  }
+  .navbar {
+      border-bottom: 2px solid rgb(126, 0, 0);
+  }
+  .navbar-brand img {
+      width: 100px;
+  }
+  a {
+      color: rgb(126, 0, 0);
+  }
+  .intro {
+      margin: 5% 10% 5% 10%;
+      text-align: center;
+  }
+  .btn {
+      background-color: rgb(126, 0, 0);
+      font-size: 1.5rem;
+  }
+.accordion-button[aria-expanded="true"] {
+    background-color: rgb(223, 221, 221);
+    border: 2px solid rgb(126, 0, 0);
+    border-radius: 3px;
+  }
+  .accordion-button[aria-expanded="true"] h3 {
+      color: rgb(126, 0, 0);
+  }
+.accordion-button img {
+    width: 200px;
+    height: auto;
+}
+.accordion-button h3 {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+h3 {
+    margin-left: 10px;
+}
+.card {
+    width: 12rem;
+}
